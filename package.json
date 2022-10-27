@@ -1,7 +1,11 @@
 {
   "name": "jobs",
   "version": "1.0.0",
+<<<<<<< HEAD
   "description": "",
+=======
+  "description": "In order to run the project, setup .env and set MONGO_URI variable equal to DB connection string.",
+>>>>>>> bb1a40d9feed905e6052600b5b576da2d71888bc
   "main": "app.js",
   "scripts": {
     "start": "nodemon app.js"
@@ -10,12 +14,22 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+<<<<<<< HEAD
     "cjs": "^0.0.11",
     "dotenv": "^8.6.0",
     "express": "^4.18.2",
     "mongoose": "^5.13.15"
+=======
+    "dotenv": "^8.6.0",
+    "express": "^4.18.2",
+    "mongoose": "^5.11.10"
+>>>>>>> bb1a40d9feed905e6052600b5b576da2d71888bc
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> bb1a40d9feed905e6052600b5b576da2d71888bc
